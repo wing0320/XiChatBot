@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const BACKEND_URL = "https://your-backend.com/chat"; // Replace with your actual backend URL
+    const BACKEND_URL = "https://chatbot-backend-k0vm3xoca-xi-lius-projects-696f2897.vercel.app/chat";
 
     let chatContainer = document.createElement("div");
     chatContainer.id = "chat-container";
